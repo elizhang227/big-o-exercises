@@ -39,16 +39,31 @@ function binarySearch(arr, val) {
 
 // ########### NODE QUESTIONS! DO THESE FIRST! DISCUSS OUT LOUD!!!!!!! ############ //
     // •Differentiate between JavaScript and Node.js
-
+    //Javascript is a programming language and Node is based off of javascript, it is the engine that allows to run server side javascript code
 
     // •Differentiate between Node.js and Express
+    //Express is a framework based off node for creating a Server
+
     // •What is npm ?
+    //node package manager
+
     // •What’s the difference between global and local installation of dependencies ?
+    //global allows you to use those dependences and packages in every node, local specifies what app you want to use the dependency for
+
     // •What is package.json ? What are some common attributes of package.json ?
+    //It contains dependencies, and scripts
+
     // •What is middleware ?
+    //acts as a bridge between controllers and view
+
     // •Explain the purpose of module.exports
+    //Export your file and being able to call those files in different files
+
     // •Explain the MVC framework
+    //user uses controllers to manipulate the model that updates the view and that is what the user sees
+
     // •How can you avoid callback hell ?
+    //do not nest funcions so debugging is easier and code is easier to read
 
 
 // ############################################################################### //
